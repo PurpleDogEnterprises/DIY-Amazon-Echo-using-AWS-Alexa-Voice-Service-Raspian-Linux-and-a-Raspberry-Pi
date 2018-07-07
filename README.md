@@ -10,5 +10,10 @@ PROJECT STEPS:
 
 3) Assembled Raspberry Pi
 
+4) Installed Raspian
+
+5) Rebooted
+
+6) Logged into AWS developer account and set up new product
 
 *NOTE: All functionality may not be included as this is my current project.
