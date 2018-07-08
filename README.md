@@ -16,4 +16,11 @@ PROJECT STEPS:
 
 6) Logged into AWS developer account and set up new product
 
+7) Cloned Git repository to get Alexa software
+
+8) Replaced ClientID, ProductID, ClientSecret  in automated_install.sh file
+
+9) Installed Alexa software
+
+
 *NOTE: All functionality may not be included as this is my current project.
