@@ -22,5 +22,18 @@ PROJECT STEPS:
 
 9) Installed Alexa software
 
+10) Downloaded plug-ins
+
+11) Registered device
+
+12) Received access token
+
+13) Tested
+
+14) Enabled wake word agent
+
+15) Successfully tested
+
+
 
 *NOTE: All functionality may not be included as this is my current project.
