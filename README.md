@@ -33,7 +33,3 @@ PROJECT STEPS:
 14) Enabled wake word agent
 
 15) Successfully tested
-
-
-
-*NOTE: All functionality may not be included as this is my current project.
